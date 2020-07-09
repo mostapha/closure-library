@@ -19,3 +19,5 @@ defaults:
       path: "develop"
     values:
       layout: article
+
+theme: jekyll-theme-cayman
